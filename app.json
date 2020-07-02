@@ -1,0 +1,12 @@
+{
+  "name": "calcutator",
+  "displayName": "calcutator",
+  "expo": {
+    "name": "calcutator",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

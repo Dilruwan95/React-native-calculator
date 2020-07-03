@@ -7,6 +7,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "android": {
+      "package": "com.LD.LDCalculator",
+      "versionCode": 1
+    }
   }
+ 
 }
